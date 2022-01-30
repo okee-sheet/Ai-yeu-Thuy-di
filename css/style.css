@@ -31,7 +31,7 @@
     background-repeat: no-repeat;
     background-image: url(../istockphoto-160541774-612x612.jpg);
     background-size: cover;
-    background-position: 50%;
+    background-position: 100%;
     -webkit-filter: blur(4px);
 }
 
@@ -64,7 +64,7 @@ header h4 {
 
 @media only screen and (max-width: 500px) {
     header h2 {
-        font-family: 'sans-serif';
+        font-family: 'Mali';
         font-size: 45px;
         text-align: center;
         margin-bottom: 30px;

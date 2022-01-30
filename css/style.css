@@ -29,7 +29,7 @@
     /* height: 100vh; */
     z-index: 0;
     background-repeat: no-repeat;
-    background-image: url(../istockphoto-160541774-612x612.jpg);
+    background-image: url(../shit.jpg);
     background-size: cover;
     background-position: 100%;
     -webkit-filter: blur(4px);
@@ -49,7 +49,7 @@
 }
 
 header h2 {
-    font-family: 'Mali';
+    font-family: 'Pangolin';
     font-size: 80px;
     text-align: center;
     margin-bottom: 30px;
@@ -57,20 +57,20 @@ header h2 {
 }
 
 header h4 {
-    font-family: 'Mali';
+    font-family: 'Pangolin';
     text-align: center;
     color: chartreuse;
 }
 
 @media only screen and (max-width: 500px) {
     header h2 {
-        font-family: 'Mali';
+        font-family: 'Pangolin';
         font-size: 45px;
         text-align: center;
         margin-bottom: 30px;
     }
     header h4 {
-        font-family: 'Mali';
+        font-family: 'Pangolin';
         text-align: center;
         padding: 15px;
     }

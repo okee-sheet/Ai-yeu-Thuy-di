@@ -1,11 +1,11 @@
 const CONFIG = {
-    titleWeb: "Ai yêu Thùy đi 💝",
+    titleWeb: "From Thùy with love 💝",
     introTitle: 'ey người yêu tương lai của tớ (づ￣ 3￣)づ',
     introDesc: `Nghe đồn anh thích màu xanh?
     Còn em thì lại thích anh chẳng rời.
     Hình như anh thích bầu trời?
     Còn em thì thích một đời bên anh.` ,
-    btnIntro: '^^From Thùy with love^^',
+    btnIntro: '^^Sang trang tiếp theo đi^^',
     title: 'Phải chăng cậu đã yêu Thùy ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng cậu đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',

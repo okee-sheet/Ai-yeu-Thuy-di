@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "From Thùy with love 💝",
-    introTitle: 'ey người yêu tương lai của tớ (づ￣ 3￣)づ',
+    introTitle: 'Ey người yêu tương lai của tớ (づ￣ 3￣)づ',
     introDesc: `Nghe đồn anh thích màu xanh?
     Còn em thì lại thích anh chẳng rời.
     Hình như anh thích bầu trời?
